@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829739836570",
+    "firebase_url": "https://ieee-44a86.firebaseio.com",
+    "project_id": "ieee-44a86",
+    "storage_bucket": "ieee-44a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829739836570:android:5cd1bc911553af1a42ab23",
+        "android_client_info": {
+          "package_name": "com.techjd.ieeeregisterationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829739836570-qb70v3j2n2r8oabjc5kh0v7lob71s9fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techjd.ieeeregisterationapp",
+            "certificate_hash": "d45253b5dfdfba9b063f75bb8563388ff2255f78"
+          }
+        },
+        {
+          "client_id": "829739836570-qpj9enfu117taal6lpssm78e5blugonv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCTMhVSaFPZD3JP7jE1OzmhvsWpsF4Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829739836570-qpj9enfu117taal6lpssm78e5blugonv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
